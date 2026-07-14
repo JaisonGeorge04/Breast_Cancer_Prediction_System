@@ -112,7 +112,6 @@ Model serialization for deployment
  Implement an automated model retraining pipeline with CI/CD
  Add unit tests for preprocessing and prediction functions
 
-
 **⚠️ Disclaimer**
 
 This project is intended as a decision-support and educational tool only. It is not a substitute for professional medical diagnosis, and predictions should not be used for actual clinical decision-making without expert medical review.
