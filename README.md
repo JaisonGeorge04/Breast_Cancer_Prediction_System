@@ -91,7 +91,7 @@ S3_BUCKET_NAME=your_bucket_name
 MODEL_FILE_KEY=model.pkl
 
 
-🧪 Model Training & Evaluation
+**🧪 Model Training & Evaluation**
 
 To retrain the model from scratch:
 
@@ -109,18 +109,18 @@ Model serialization for deployment
 
 
 
-📈 Future Enhancements
+**📈 Future Enhancements**
 
 
  Add cross-validation for more robust performance evaluation
  Experiment with additional algorithms (Random Forest, XGBoost) for comparison
  Add feature importance visualization to improve model explainability
- Implement automated model retraining pipeline with CI/CD
+ Implement an automated model retraining pipeline with CI/CD
  Add unit tests for preprocessing and prediction functions
 
 
 
-⚠️ Disclaimer
+**⚠️ Disclaimer**
 
 This project is intended as a decision-support and educational tool only. It is not a substitute for professional medical diagnosis, and predictions should not be used for actual clinical decision-making without expert medical review.
 
