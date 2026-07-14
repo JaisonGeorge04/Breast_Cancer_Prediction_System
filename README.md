@@ -51,10 +51,10 @@ The pipeline begins with the Wisconsin Breast Cancer dataset, which is cleaned a
 
 **📊 Model Details**
 
-AspectDescriptionDatasetWisconsin Breast Cancer DatasetProblem TypeBinary Classification (Malignant / Benign)AlgorithmGradient Boosting ClassifierPreprocessingMissing value handling, feature scalingEvaluation MetricsAccuracy, Precision, Recall, F1-score, Confusion MatrixKey FocusHigh recall for malignant class to minimize false negatives
+Aspect Description Dataset Wisconsin Breast Cancer DatasetProblem TypeBinary Classification (Malignant / Benign)AlgorithmGradient Boosting Classifier Preprocessing Missing value handling, feature scalingEvaluation MetricsAccuracy, Precision, Recall, F1-score, Confusion MatrixKey FocusHigh recall for malignant class to minimize false negatives
 
 
-🚀 Getting Started
+**🚀 Getting Started**
 
 Prerequisites
 
@@ -64,7 +64,7 @@ pip
 AWS account (if using S3 for model storage)
 
 
-Installation & Setup
+**Installation & Setup**
 
 bash# Clone the repository
 git clone https://github.com/<your-username>/breast-cancer-prediction-system.git
