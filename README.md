@@ -6,7 +6,7 @@ A Machine Learning application that predicts breast cancer diagnosis (malignant 
 
 The Breast Cancer Diagnosis Prediction System applies a Gradient Boosting classification model to the Wisconsin Breast Cancer dataset, enabling real-time diagnosis prediction based on clinical input values. The project covers the complete Machine Learning pipeline — from data preprocessing and feature scaling to model training, evaluation, and deployment — with trained model artifacts stored on AWS S3 for cloud-based model management.
 
-The goal of this system is to act as a decision-support tool, helping highlight potential malignancy risk based on clinical measurements, while emphasizing high recall to minimize the risk of false negatives in a medical context.
+The goal of this system is to act as a decision-support tool, highlighting potential malignancy risk based on clinical measurements while emphasizing high recall to minimize the risk of false negatives in a medical context.
 
 
 **✨ Key Features**
@@ -57,11 +57,9 @@ Aspect Description Dataset Wisconsin Breast Cancer DatasetProblem TypeBinary Cla
 
 Prerequisites
 
-
 Python 3.10+
 pip
 AWS account (if using S3 for model storage)
-
 
 **Installation & Setup**
 
