@@ -25,7 +25,7 @@ The goal of this system is to act as a decision-support tool, helping highlight 
 CategoryTechnologyLanguagePythonML LibraryScikit-learnAlgorithmGradient BoostingData HandlingPandas, NumPyWeb InterfaceStreamlitCloud StorageAWS S3Version ControlGit & GitHub
 
 
-🏗️ System Architecture
+**🏗️ System Architecture**
 
 ┌──────────────┐     ┌───────────────┐     ┌────────────────┐
 │   Dataset    │────▶│  Preprocessing │────▶│  Gradient       │
@@ -49,7 +49,7 @@ CategoryTechnologyLanguagePythonML LibraryScikit-learnAlgorithmGradient Boosting
 The pipeline begins with the Wisconsin Breast Cancer dataset, which is cleaned and scaled before training a Gradient Boosting classifier. The trained model is serialized and stored in AWS S3, allowing the Streamlit front-end to load it on demand and generate real-time predictions from user-provided clinical inputs.
 
 
-📊 Model Details
+**📊 Model Details**
 
 AspectDescriptionDatasetWisconsin Breast Cancer DatasetProblem TypeBinary Classification (Malignant / Benign)AlgorithmGradient Boosting ClassifierPreprocessingMissing value handling, feature scalingEvaluation MetricsAccuracy, Precision, Recall, F1-score, Confusion MatrixKey FocusHigh recall for malignant class to minimize false negatives
 
