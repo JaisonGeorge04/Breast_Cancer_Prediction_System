@@ -11,7 +11,6 @@ The goal of this system is to act as a decision-support tool, helping highlight 
 
 **✨ Key Features**
 
-
 🧬 Machine Learning Classification — Predicts malignant vs. benign diagnosis using Gradient Boosting
 🧹 Data Preprocessing Pipeline — Handles data cleaning, feature scaling, and preparation using Pandas and Scikit-learn
 📊 Model Evaluation — Assessed using accuracy, precision, recall, and confusion matrix analysis
