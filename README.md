@@ -19,7 +19,6 @@ The goal of this system is to act as a decision-support tool, helping highlight 
 🎯 Recall-Focused Optimization — Tuned to minimize false negatives, critical for medical diagnosis use cases
 
 
-
 **🛠️ Tech Stack**
 
 CategoryTechnologyLanguagePythonML LibraryScikit-learnAlgorithmGradient BoostingData HandlingPandas, NumPyWeb InterfaceStreamlitCloud StorageAWS S3Version ControlGit & GitHub
@@ -108,9 +107,7 @@ Evaluation using accuracy, precision, recall, and confusion matrix
 Model serialization for deployment
 
 
-
 **📈 Future Enhancements**
-
 
  Add cross-validation for more robust performance evaluation
  Experiment with additional algorithms (Random Forest, XGBoost) for comparison
@@ -119,14 +116,14 @@ Model serialization for deployment
  Add unit tests for preprocessing and prediction functions
 
 
-
 **⚠️ Disclaimer**
 
 This project is intended as a decision-support and educational tool only. It is not a substitute for professional medical diagnosis, and predictions should not be used for actual clinical decision-making without expert medical review.
 
 
-👤 Author
+**👤 Author**
 
 Jaison George
 📧 jaisongeorge699@gmail.com
-🔗 LinkedIn • Portfolio
+🔗 LinkedIn :-https://www.linkedin.com/in/jaison-george-887891310/ 
+🔗 Portfolio :- https://jaisongeorge04.github.io/PortFolio/
