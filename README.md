@@ -7,7 +7,6 @@ The **Breast Cancer Diagnosis Prediction System** applies a Gradient Boosting cl
 
 The goal of this system is to act as a decision-support tool, highlighting potential malignancy risk based on clinical measurements while emphasizing high recall to minimize the risk of false negatives in a medical context.
 
-
 **✨ Key Features**
 
 🧬 𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝑪𝒍𝒂𝒔𝒔𝒊𝒇𝒊𝒄𝒂𝒕𝒊𝒐𝒏 — Predicts malignant vs. benign diagnosis using Gradient Boosting
