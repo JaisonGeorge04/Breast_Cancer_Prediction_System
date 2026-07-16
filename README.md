@@ -93,13 +93,12 @@ bashpython train_model.py
 
 This script performs:
 
-
-Data loading and preprocessing
-Feature scaling using Scikit-learn
-Train/test split
-Model training using Gradient Boosting
-Evaluation using accuracy, precision, recall, and confusion matrix
-Model serialization for deployment
+•Data loading and preprocessing
+•Feature scaling using Scikit-learn
+•Train/test split
+•Model training using Gradient Boosting
+•Evaluation using accuracy, precision, recall, and confusion matrix
+•Model serialization for deployment
 
 
 **📈 Future Enhancements**
