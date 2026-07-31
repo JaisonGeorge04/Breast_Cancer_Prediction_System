@@ -111,8 +111,6 @@ This script performs:
 **⚠️ Disclaimer**
 
 This project is intended solely as a decision-support and educational tool. It is not a substitute for professional medical diagnosis, and predictions should not be used for actual clinical decision-making without expert medical review.
-
-
 **👤 Author**
 
 Jaison George
