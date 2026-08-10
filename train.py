@@ -7,7 +7,7 @@ def train_model():
     data = load_breast_cancer()
     X = data.data
     y = data.target
- 
+  
     print("Loading scaler...")
     scaler = joblib.load('scaler.pkl')
 
