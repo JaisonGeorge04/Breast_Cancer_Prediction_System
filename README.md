@@ -1,6 +1,6 @@
 **🎗️ Breast Cancer Diagnosis Prediction System**
 A Machine Learning application that predicts breast cancer diagnosis (malignant vs. benign) using clinical measurement data, built with Scikit-learn and deployed as an interactive real-time prediction tool using Streamlit.
-
+ 
 **📋 Overview** 
 
 The **Breast Cancer Diagnosis Prediction System** applies a Gradient Boosting classification model to the Wisconsin Breast Cancer dataset, enabling real-time diagnosis prediction based on clinical input values. The project covers the complete Machine Learning pipeline — from data preprocessing and feature scaling to model training, evaluation, and deployment — with trained model artifacts stored on AWS S3 for cloud-based model management.
