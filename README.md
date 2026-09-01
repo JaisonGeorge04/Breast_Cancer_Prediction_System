@@ -16,7 +16,6 @@ This system serves as a decision-support tool, highlighting potential malignancy
 ☁️ 𝑪𝒍𝒐𝒖𝒅-𝑩𝒂𝒔𝒆𝒅 𝑴𝒐𝒅𝒆𝒍 𝑺𝒕𝒐𝒓𝒂𝒈𝒆 — Trained model artifacts stored securely in AWS S3 for easy updates and retrieval
 🎯 𝑹𝒆𝒄𝒂𝒍𝒍-𝑭𝒐𝒄𝒖𝒔𝒆𝒅 𝑶𝒑𝒕𝒊𝒎𝒊𝒛𝒂𝒕𝒊𝒐𝒏 — Tuned to minimize false negatives, critical for medical diagnosis use cases
 
-
 **🛠️ Tech Stack**
 
 CategoryTechnologyLanguagePythonML LibraryScikit-learnAlgorithmGradient BoostingData HandlingPandas, NumPyWeb InterfaceStreamlitCloud StorageAWS S3Version ControlGit & GitHub
