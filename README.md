@@ -59,7 +59,7 @@ AWS account (if using S3 for model storage)
 
 **Installation & Setup**
 
-bash# Clone the repository
+# Clone the repository
 git clone https://github.com/<your-username>/breast-cancer-prediction-system.git
 cd breast-cancer-prediction-system
 
