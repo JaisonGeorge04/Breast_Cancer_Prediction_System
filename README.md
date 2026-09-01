@@ -20,7 +20,6 @@ This system serves as a decision-support tool, highlighting potential malignancy
 
 CategoryTechnologyLanguagePythonML LibraryScikit-learnAlgorithmGradient BoostingData HandlingPandas, NumPyWeb InterfaceStreamlitCloud StorageAWS S3Version ControlGit & GitHub
 
-
 **🏗️ System Architecture**
 
 ┌──────────────┐     ┌───────────────┐     ┌────────────────┐
