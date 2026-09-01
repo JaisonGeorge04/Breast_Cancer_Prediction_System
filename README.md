@@ -72,7 +72,7 @@ pip install -r requirements.txt
 
 Running the Application
 
-bashstreamlit run app.py
+bash streamlit run app.py
 
 The application will open in your browser at http://localhost:8501.
 
