@@ -47,7 +47,7 @@ The pipeline begins with the Wisconsin Breast Cancer dataset, which is cleaned a
 
 **📊 Model Details**
 
-Aspect Description Dataset Wisconsin Breast Cancer DatasetProblem TypeBinary Classification (Malignant / Benign)AlgorithmGradient Boosting Classifier Preprocessing Missing value handling, feature scalingEvaluation MetricsAccuracy, Precision, Recall, F1-score, Confusion MatrixKey FocusHigh recall for malignant class to minimize false negatives
+Aspect Description Dataset Wisconsin Breast Cancer DatasetProblem TypeBinary Classification (Malignant / Benign) Algorithm Gradient Boosting Classifier Preprocessing Missing value handling, feature scalingEvaluation MetricsAccuracy, Precision, Recall, F1-score, Confusion MatrixKey FocusHigh recall for malignant class to minimize false negatives
 
 **🚀 Getting Started**
  
