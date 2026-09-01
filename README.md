@@ -88,7 +88,7 @@ MODEL_FILE_KEY=model.pkl
 
 To retrain the model from scratch:
 
-bashpython train_model.py
+bash python train_model.py
 
 This script performs:
 
