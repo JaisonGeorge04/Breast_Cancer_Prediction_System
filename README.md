@@ -1,5 +1,5 @@
 **🎗️ Breast Cancer Diagnosis Prediction System**
-A Machine Learning application that predicts breast cancer diagnosis (malignant vs. benign) using clinical measurement data, built with Scikit-learn and deployed as an interactive real-time prediction tool using Streamlit.
+A Machine Learning application that predicts breast cancer diagnosis (malignant vs. benign) from clinical measurement data, built with Scikit-learn and deployed as an interactive real-time prediction tool in Streamlit.
  
 **📋 Overview** 
 
