@@ -41,7 +41,7 @@ CategoryTechnologyLanguagePythonML LibraryScikit-learnAlgorithmGradient Boosting
                                             │   Prediction UI)  │
                                             └──────────────────┘
 
-The pipeline starts with the Wisconsin Breast Cancer dataset, which we clean and scale before training a Gradient Boosting classifier. The trained model is serialized and stored in AWS S3, allowing the Streamlit front end to load it on demand and generate real-time predictions from user-provided clinical inputs.
+The pipeline starts with the Wisconsin Breast Cancer dataset, which we clean and scale before training a Gradient Boosting classifier. The trained model is serialized and store  in AWS S3, allowing the Streamlit front end to load it on demand and generate real-time predictions from user-provided clinical inputs.
 
 **📊 Model Details**
 
