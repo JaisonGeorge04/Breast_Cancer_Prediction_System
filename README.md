@@ -81,7 +81,6 @@ AWS_SECRET_ACCESS_KEY=your_secret_key
 S3_BUCKET_NAME=your_bucket_name
 MODEL_FILE_KEY=model.pkl
 
-
 **🧪 Model Training & Evaluation**
 
 To retrain the model from scratch:
