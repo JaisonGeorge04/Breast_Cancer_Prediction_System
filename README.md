@@ -78,7 +78,7 @@ Environment Variables (if loading model from AWS S3)
 
 envAWS_ACCESS_KEY_ID=your_access_key
 AWS_SECRET_ACCESS_KEY=your_secret_key
-S3_BUCKET_NAME=your_bucket_name
+S3_BUCKET_NAME=your_bucket_name 
 MODEL_FILE_KEY=model.pkl
 
 **🧪 Model Training & Evaluation**
