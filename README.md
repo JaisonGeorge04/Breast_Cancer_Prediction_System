@@ -23,7 +23,7 @@ CategoryTechnologyLanguagePythonML LibraryScikit-learnAlgorithmGradient Boosting
 **🏗️ System Architecture**
 
 ┌──────────────┐     ┌───────────────┐     ┌────────────────┐
-│   Dataset    │────▶│  Preprocessing │────▶│  Gradient       │
+│   Dataset    │────▶│  Preprocessing │────▶│  Gradient      |
 │  (Clinical   │     │  (Pandas,      │     │  Boosting Model │
 │   Features)  │     │   Scikit-learn)│     │  (Training)     │
 └──────────────┘     └───────────────┘     └────────┬───────┘
