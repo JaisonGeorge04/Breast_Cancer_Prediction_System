@@ -18,7 +18,14 @@ This system serves as a decision-support tool, highlighting potential malignancy
 
 **🛠️ Tech Stack**
 
-**Category**              **Technology** LanguagePythonML LibraryScikit-learnAlgorithmGradient BoostingData HandlingPandas, NumPyWeb InterfaceStreamlitCloud StorageAWS S3Version ControlGit & GitHub
+**Category**            |         **Technology** 
+  Language              |           Python
+  ML Library            |           Scikit-learn
+  Algorithm             |           Gradient Boosting
+  Data Handling         |           Pandas, NumPy
+  Web Interface         |           Streamlit
+  Cloud Storage         |           AWS S3
+  Version Control       |           Git & GitHub
 
 **🏗️ System Architecture**
 
