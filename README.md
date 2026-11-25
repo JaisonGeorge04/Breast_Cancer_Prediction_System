@@ -14,7 +14,7 @@ This system serves as a decision-support tool, highlighting potential malignancy
 📊 𝑴𝒐𝒅𝒆𝒍 𝑬𝒗𝒂𝒍𝒖𝒂𝒕𝒊𝒐𝒏 — Assessed using accuracy, precision, recall, and confusion matrix analysis
 ⚡ 𝑹𝒆𝒂𝒍-𝑻𝒊𝒎𝒆 𝑷𝒓𝒆𝒅𝒊𝒄𝒕𝒊𝒐𝒏𝒔 — Interactive Streamlit interface for instant, user-driven predictions
 ☁️ 𝑪𝒍𝒐𝒖𝒅-𝑩𝒂𝒔𝒆𝒅 𝑴𝒐𝒅𝒆𝒍 𝑺𝒕𝒐𝒓𝒂𝒈𝒆 — Trained model artifacts stored securely in AWS S3 for easy updates and retrieval
-🎯 𝑹𝒆𝒄𝒂𝒍𝒍-𝑭𝒐𝒄𝒖𝒔𝒆𝒅 𝑶𝒑𝒕𝒊𝒎𝒊𝒛𝒂𝒕𝒊𝒐𝒏 — Tuned to minimize false negatives, critical for medical diagnosis use cases
+🎯 𝑹𝒆𝒄𝒂𝒍𝒍-𝑭𝒐𝒄𝒖𝒔𝒆𝒅 𝑶𝒑𝒕𝒊𝒎𝒊𝒛𝒂𝒕𝒊𝒐𝒏 — Model performance is evaluated with particular attention to malignant-class recall to monitor false-negative predictions., critical for medical diagnosis use cases
 
 **🛠️ Tech Stack**
 
