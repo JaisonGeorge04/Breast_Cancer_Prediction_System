@@ -43,9 +43,9 @@ This system serves as a decision-support tool, highlighting potential malignancy
                                                       │
                                                       ▼
                                             ┌──────────────────┐
-                                            │  Streamlit App    │
-                                            │  (Real-Time       │
-                                            │   Prediction UI)  │
+                                            │  Streamlit App   │
+                                            │  (Real-Time      |
+                                            │   Prediction UI) │
                                             └──────────────────┘
 
 The pipeline starts with the Wisconsin Breast Cancer dataset, which we clean and scale before training a Gradient Boosting classifier. We serialize the trained model and store it in AWS S3, allowing the Streamlit front end to load it on demand and generate real-time predictions from user-provided clinical inputs.
