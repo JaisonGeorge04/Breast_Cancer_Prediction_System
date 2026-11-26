@@ -120,8 +120,8 @@ This script performs:
 **⚠️ Disclaimer**
 
 This project is intended solely as a decision-support and educational tool. It is not a substitute for professional medical diagnosis, and predictions should not guide clinical decision-making without expert medical review.  
-**👤 Author**
 
+**👤 Author**
 Jaison George
 📧 jaisongeorge699@gmail.com
 🔗 LinkedIn :-https://www.linkedin.com/in/jaison-george-887891310/ 
