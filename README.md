@@ -37,8 +37,8 @@ This system serves as a decision-support tool, highlighting potential malignancy
                                                       │
                                                       ▼
                                             ┌──────────────────┐
-                                            │  Model Artifact   │
-                                            │  Stored on AWS S3 │
+                                            │ Model Artifact   │
+                                            │ Stored on AWS S3 │
                                             └────────┬─────────┘
                                                       │
                                                       ▼
